@@ -1,7 +1,7 @@
 # Hello, I'm Muhammad Shahnawaz! 👋
 
 ## About Me
-I'm a passionate Fullstack Developer based in Pakistan. I love coding and enjoy exploring new technologies.
+I'm a passionate Fullstack Developer based in Islamabad, Pakistan. I love coding and enjoy exploring new technologies.
 
 ## Technologies I'm Working On
 - **Programming Languages:**
@@ -23,7 +23,7 @@ I'm a passionate Fullstack Developer based in Pakistan. I love coding and enjoy 
   - Git
     
 ## Get in Touch
-- LinkedIn: [Muhammad Shahnawaz]([link-to-linkedin](https://www.linkedin.com/in/muhammad-shahnawaz-938a0a139/))
+- LinkedIn: ([LinkedIn](https://www.linkedin.com/in/muhammad-shahnawaz-938a0a139/))
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or want to collaborate on something interesting!
 
