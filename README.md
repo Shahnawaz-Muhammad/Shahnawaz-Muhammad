@@ -23,7 +23,7 @@ I'm a passionate Fullstack Developer based in Islamabad, Pakistan. I love coding
   - Git
     
 ## Get in Touch
-- LinkedIn: ([LinkedIn](https://www.linkedin.com/in/muhammad-shahnawaz-938a0a139/))
+- LinkedIn: ([[Muhammad Shahnawaz]](https://www.linkedin.com/in/muhammad-shahnawaz-938a0a139/))
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or want to collaborate on something interesting!
 
