@@ -12,7 +12,7 @@ I'm a passionate Fullstack Developer based in Islamabad, Pakistan. I love coding
   - HTML5
   - CSS3
   - Tailwind-CSS, Material UI, BootStrap 
-  - React.js/Next.js
+  - React.js/Next.js, React Native
   - Node.js
 
 - **Database:**
